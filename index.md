@@ -1,4 +1,4 @@
-## Hidden Call Recorder - Privacy Policy
+# Hidden Call Recorder - Privacy Policy
 This document clariﬁes how User data and any sensitive information is handled in the App.
 
 ### Recording Call - Microphone
@@ -12,7 +12,7 @@ The App requests permission to access the phone’s storage only in order to sto
 ### Contacts
 The App accesses the contacts on the phone in order to display the contacts that were recorded and so the App can record or ignore calls from speciﬁc contacts. The contacts information is NOT transmitted nor stored on any server.
 
-### Third-party collected Data
+## Third-party collected Data
 The App uses several third parties in order to improve our services. These parties collect their own data. Please read their privacy policies (see the links below) to ensure that you’re comfortable with the manner in which they collect data.
 
 ### Ads
