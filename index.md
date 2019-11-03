@@ -18,6 +18,13 @@ The App uses several third parties in order to improve our services. These parti
 ### Ads
 Google Admob: The free version of our android Application includes some ads displayed with Google Admob. Please check the policy at: https://www.google.com/intl/en/policies/privacy/ 
 
+### Google drive
+#### NOTICE: this feature is under development. Currently Hidden Call Recorder does not upload ANY recordings or anything else to Google drive or anywhere else.
+user dead desired to backup recorded calls can do so by synchronising these recorded calls to Google drive. In that case the user will authorise the app to access the User's Google Drive and the app will sync saved recorded calls to Google Drive storage on the User's own storage folders on their own Google Drive account. To be clear that the app does not store the recorded calls on any server other than the Google Drive and no one but the user or any app the user authorised will have access to these files. The user account and authorisation information will only be stored locally and internally by the app and will not be transmitted or stored anywhere else.   
+
+Please check Google please see if you want to synchronise your file to Google Drive.
+Https://www.google.com/intl/en/policies/privacy/
+
 ### Support or Contact
 
 If you need any sort of help, feel free to contact me at abubakar.siddique447@gmail.com
